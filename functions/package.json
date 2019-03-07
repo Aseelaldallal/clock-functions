@@ -14,7 +14,9 @@
   },
   "main": "lib/index.js",
   "dependencies": {
+    "@types/es6-promise": "^3.3.0",
     "cors": "^2.8.5",
+    "express": "^4.16.4",
     "firebase-admin": "^7.0.0",
     "firebase-functions": "^2.2.0",
     "moment": "^2.24.0"
